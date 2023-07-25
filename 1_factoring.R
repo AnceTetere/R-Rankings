@@ -1,5 +1,5 @@
 getwd()
-setwd("D:\\R scripts and databases\\Data sets\\UDEMY_R_programmingCourse_Section6" )
+setwd("D:\\R scripts and databases\\Data sets\\UDEMY_R_programmingCourse_Section6")
 getwd()
 
 movies <- read.csv("P2-Movie-Ratings.csv")
